@@ -4,3 +4,5 @@
   - place in ~/openstreetmap-carto-4.20.0/scripts/
   - make it executable
     - chmod 775 get-shapefiles.py
++ preconfigured renderd.conf for renderd
+  - place in /etc/
